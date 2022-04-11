@@ -1,6 +1,6 @@
 # Google Cloud Functions AND Pub/Sub Demonstration
 
-* ## [Demo site here:](https://storage.googleapis.com/quiz8-bucket/index.html)
+* ## [Demo site here:](https://storage.googleapis.com/cs4843-q8/q8/index.html)
 
 ***What are Google Cloud Functions?***
 
