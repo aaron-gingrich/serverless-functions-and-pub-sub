@@ -8,7 +8,7 @@ body {
 }
 
 body {
-  background-color: #262626;
+  background-color: #ffffff;
 }
 
 hr {
@@ -22,12 +22,16 @@ h4,
 h5,
 h6 {
   text-align: center;
-  color: whitesmoke;
+  color: rgb(0, 0, 0);
+}
+
+div {
+  text-align: center;
 }
 
 p,
 a {
-  color: whitesmoke;
+  color: rgb(0, 0, 0);
 }
 
 a:hover {
@@ -69,6 +73,10 @@ button:hover,
   margin-top: 50px;
 }
 
+.img{
+  width: 200px;
+}
+
 #center.container {
   padding-top: 10px;
   margin: auto;
@@ -80,9 +88,9 @@ button:hover,
 #form-container.container {
   padding-top: 10px;
   max-width: 650px;
-  width: 250px;
+  width: 350px;
   margin: auto;
   padding: 10px;
-  border: solid 1px whitesmoke;
+  border: solid 1px rgb(0, 0, 0);
   border-radius: 15px;
 }
