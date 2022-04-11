@@ -35,8 +35,14 @@ a {
 }
 
 a:hover {
-  color: #783cfc;
+  color: #ffffff;
 }
+
+button:hover{
+  color: #ffffff;
+}
+
+
 
 input:hover,
 input:active,
@@ -62,11 +68,13 @@ button:hover,
   outline: none;
   margin-top: 9px;
   margin-left: 4px;
+  border: solid 1px #783cfc;
 }
 
 .btn.btn-primary:hover {
-  background-color: #262626;
-  color: #783cfc;
+  background-color: #ffffff;
+  color: #000000;
+  
 }
 
 #outer.container {
@@ -91,6 +99,6 @@ button:hover,
   width: 350px;
   margin: auto;
   padding: 10px;
-  border: solid 1px rgb(0, 0, 0);
+  border: solid 1px #783cfc;
   border-radius: 15px;
 }
